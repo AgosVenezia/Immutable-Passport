@@ -17,21 +17,21 @@
 <h4>Create a new directory for your project or git clone a repository of a simple application that you'd like to use for showcasing Immutable Passport integration.</h4>
 <p>Navigate to a directory where you want to create your application and create a new directory called passport-app.</p>
 
-```
+```shell
 cd ~
 mkdir passport-app
 ```
 
 <p>Navigate to the passport-app directory and initialize a new Node.js project.</p>
 
-```
+```shell
 cd passport-app
 npm init -y
 ```
 
 <p>Install the Immutable Passport SDK.</p>
 
-```
+```shell
 npm install @immutablex/passport
 ```
 
